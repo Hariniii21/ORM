@@ -1,5 +1,5 @@
-![image](https://github.com/Hariniii21/ORM/assets/147140423/247265de-a445-4b4a-8c85-e2b4dd0a67d9)# Ex02 Django ORM Web Application
-## Date: 
+# Ex02 Django ORM Web Application
+## Date: 18.03.2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
